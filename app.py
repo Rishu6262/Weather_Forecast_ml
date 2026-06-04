@@ -169,12 +169,12 @@ with col3:
         value=40.0
     )
 
-    uv_index = st.number_input(
-        "UV Index",
-        min_value=0.0,
-        max_value=15.0,
-        value=5.0
-    )
+    # uv_index = st.number_input(
+    #     "UV Index",
+    #     min_value=0.0,
+    #     max_value=15.0,
+    #     value=5.0
+    # )
 
 # -------------------------------------------------
 # DYNAMIC INPUTS
@@ -191,8 +191,8 @@ for col in columns:
         "humidity",
         "wind_speed",
         "pressure",
-        "cloud_cover",
-        "uv_index"
+        "cloud_cover"
+        # "uv_index"
     ]:
         continue
 
@@ -228,8 +228,8 @@ if st.button("🔍 Predict Weather", use_container_width=True):
             elif col.lower() == "cloud_cover":
                 data[col] = cloud_cover
 
-            elif col.lower() == "uv_index":
-                data[col] = uv_index
+            # elif col.lower() == "uv_index":
+            #     data[col] = uv_index
 
             else:
                 data[col] = user_inputs[col]
