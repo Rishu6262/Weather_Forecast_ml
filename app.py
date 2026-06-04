@@ -305,6 +305,7 @@ Users can compare predictions from different models and evaluate performance.
 Developed using:
 - Python
 - Scikit-Learn
-- XGBoost
+- Git-hub
 - Streamlit
+
 """)
