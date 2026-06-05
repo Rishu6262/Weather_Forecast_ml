@@ -271,7 +271,7 @@ Prediction: No Rain
 
 ## Deployment
 
-* Streamlit (if deployed)
+* Streamlit (deployed)
 
 ---
 
