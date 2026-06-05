@@ -358,31 +358,6 @@ Through this project, the following skills were developed:
 
 ---
 
-# 🌍 Real-World Applications
-
-This project can be used for:
-
-* Weather Forecasting
-* Agricultural Planning
-* Disaster Management
-* Environmental Monitoring
-* Educational Machine Learning Projects
-* Climate Data Analysis
-
----
-
-# 🚀 Future Improvements
-
-* Real-Time Weather API Integration
-* Weather Dashboard
-* Deep Learning Models
-* Cloud Deployment
-* Mobile Application
-* Advanced Forecasting Models
-* Weather Alert System
-
----
-
 # 👨‍💻 Author
 
 **Rishu Gurjar**
