@@ -1,11 +1,5 @@
 # 🌦️ Weather Rain Prediction System
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange)
-![Classification](https://img.shields.io/badge/Classification-Model-blue)
-![Status](https://img.shields.io/badge/Project-Completed-success)
-
 ---
 
 # 🚀 Project Overview
