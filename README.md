@@ -103,8 +103,6 @@ The primary objective of this project is to develop an intelligent **Machine Lea
 - 🌐 Develop an interactive Streamlit web application for real-time rainfall prediction.
 - 🚀 Build a scalable, deployment-ready weather forecasting solution using Machine Learning.
 
----
-
 # ⚙️ System Workflow
 
 ```text
