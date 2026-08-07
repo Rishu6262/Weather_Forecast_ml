@@ -36,20 +36,42 @@ The primary goal of this project is to develop an intelligent **Machine Learning
 
 # 📊 Dataset Information
 
-Dataset Name: Weather Forecast Dataset
+The project utilizes the **Weather Forecast Dataset**, which contains historical weather observations collected to analyze atmospheric conditions and predict the likelihood of rainfall. The dataset includes key environmental features that significantly influence weather patterns and serves as the foundation for training and evaluating Machine Learning classification models.
 
-Total Records: 2500
+## 📋 Dataset Summary
 
-Total Features: 6
+| Attribute | Details |
+|-----------|---------|
+| 📂 **Dataset Name** | Weather Forecast Dataset |
+| 📄 **Total Records** | **2,500** |
+| 📊 **Total Features** | **6** |
+| 🎯 **Target Variable** | Rain |
+| 📚 **Dataset Type** | Binary Classification |
+| 🌦️ **Domain** | Weather Forecasting |
 
-Target Variable:
+---
 
-* Rain
+## 📑 Dataset Features
 
-Classes:
+| Feature | Description |
+|---------|-------------|
+| 🌡️ **Temperature** | Ambient temperature recorded for the day |
+| 💧 **Humidity** | Relative humidity percentage in the atmosphere |
+| 🌬️ **Wind Speed** | Speed of wind during the observation period |
+| ☁️ **Cloud Cover** | Percentage of cloud coverage in the sky |
+| 📉 **Pressure** | Atmospheric pressure measured in hPa |
+| 🌧️ **Rain** | Target variable indicating whether rainfall occurred |
 
-* Rain
-* No Rain
+---
+
+## 🎯 Target Variable
+
+The objective of the model is to classify weather conditions into one of the following categories:
+
+- 🌧️ **Rain** – Indicates that rainfall is expected.
+- ☀️ **No Rain** – Indicates that rainfall is not expected.
+
+This binary target variable enables the Machine Learning models to learn weather patterns and accurately predict future rainfall based on atmospheric conditions.
 
 ---
 
