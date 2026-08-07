@@ -87,15 +87,21 @@ This binary target variable enables the Machine Learning models to learn weather
 | Rain        | Target Variable           |
 
 ---
-
 # 🎯 Project Objectives
 
-* Predict rainfall occurrence
-* Analyze weather conditions affecting rain
-* Compare multiple machine learning algorithms
-* Select the best-performing prediction model
-* Improve classification accuracy
-* Build a practical weather forecasting application
+The primary objective of this project is to develop an intelligent **Machine Learning-based Weather Rain Prediction System** capable of accurately forecasting rainfall using historical weather data. The project also focuses on comparing multiple classification algorithms to identify the most reliable model for real-world weather prediction.
+
+### ⭐ Key Objectives
+
+- 🌧️ Predict the likelihood of rainfall using historical weather data.
+- 📊 Analyze the impact of atmospheric conditions such as temperature, humidity, wind speed, cloud cover, and pressure on rainfall.
+- 🧹 Perform data preprocessing and prepare the dataset for machine learning.
+- 📈 Conduct Exploratory Data Analysis (EDA) to identify patterns and relationships in weather data.
+- 🤖 Train and compare multiple Machine Learning classification algorithms.
+- 📏 Evaluate model performance using Accuracy, Precision, Recall, F1 Score, and Confusion Matrix.
+- 🏆 Select the best-performing model based on prediction accuracy and generalization ability.
+- 🌐 Develop an interactive Streamlit web application for real-time rainfall prediction.
+- 🚀 Build a scalable, deployment-ready weather forecasting solution using Machine Learning.
 
 ---
 
