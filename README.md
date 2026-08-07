@@ -278,38 +278,51 @@ or
 ```text
 Prediction: No Rain
 ```
-
----
-
 # 🛠️ Technologies Used
 
-## Programming Language
+The project leverages modern **Python libraries**, **Machine Learning frameworks**, and **development tools** to build an end-to-end rainfall prediction system.
 
-* Python
+## 💻 Technology Stack
 
-## Data Analysis
-
-* Pandas
-* NumPy
-
-## Data Visualization
-
-* Matplotlib
-* Seaborn
-
-## Machine Learning
-
-* Logistic Regression
-* Decision Tree
-* Random Forest
-* Support Vector Machine (SVM)
-* XGBoost
-
-## Deployment
-
-* Streamlit (deployed)
+| Category | Technology | Purpose |
+|----------|------------|---------|
+| 🐍 Programming Language | Python | Core programming language for application development |
+| 📊 Data Analysis | Pandas | Data loading, cleaning, preprocessing, and manipulation |
+| 🔢 Numerical Computing | NumPy | Numerical operations and efficient array processing |
+| 📈 Data Visualization | Matplotlib | Statistical charts and data visualization |
+| 📉 Exploratory Data Analysis | Seaborn | Advanced visualizations and EDA |
+| 🤖 Machine Learning | Scikit-learn | Model training, preprocessing, and evaluation |
+| 🚀 Gradient Boosting | XGBoost | High-performance classification algorithm |
+| 🌐 Web Application | Streamlit | Interactive rainfall prediction application |
+| 💾 Model Serialization | Pickle / Joblib | Save and load trained machine learning models |
+| 🔗 Version Control | Git & GitHub | Source code management and collaboration |
 
 ---
+
+## 🤖 Machine Learning Algorithms
+
+The project compares multiple classification algorithms to identify the most accurate rainfall prediction model.
+
+- 📈 Logistic Regression
+- 🌳 Decision Tree Classifier
+- 🌲 Random Forest Classifier
+- 📐 Support Vector Machine (SVM)
+- ⚡ XGBoost Classifier
+
+---
+
+## 🚀 Technical Skills Demonstrated
+
+- 🐍 Python Programming
+- 📊 Data Cleaning & Preprocessing
+- 📈 Exploratory Data Analysis (EDA)
+- ⚙️ Feature Engineering
+- 🤖 Machine Learning Classification
+- 📏 Model Evaluation & Comparison
+- 📊 Predictive Analytics
+- 💾 Model Serialization
+- 🌐 Streamlit Web Application Development
+- 🔗 Git & GitHub Version Control
 
 # 📂 Project Structure
 
